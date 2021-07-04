@@ -6,6 +6,7 @@ The study followed a mixed-methods approach (Job-related Affective Well-being Sc
 
 This repository contains,
 
+Demographic information of the participants;
 Survey questionnaire; and
 Survey data: all raw, analysed relavant to this study
 
