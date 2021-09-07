@@ -2,7 +2,7 @@
 
 This is the replication package of the IEEE Transactions on Software Engineering paper "An Emotional Roller Coaster of Responding to Software Requirements Changes" | Kashumi Madampe; Rashina Hoda; John Grundy
 
-The study followed a mixed-methods approach (Job-related Affective Well-being Scale, Socio-Technical Grounded Theory).
+The study followed a mixed-methods approach (Statistical Analysis, Analysis using Job-related Affective Well-being Scale (JAWS), and Socio-Technical Grounded Theory for data analysis (STGT4DA)).
 
 This repository contains,
 
