@@ -1,6 +1,6 @@
-# An Emotional Roller Coaster of Responding to Software Requirements Changes - Replication Package - Madampe et al.
+# The Emotional Roller Coaster of Responding to Requirements Changes in Software Engineering - Replication Package - Madampe et al.
 
-This is the replication package of the IEEE Transactions on Software Engineering paper "An Emotional Roller Coaster of Responding to Software Requirements Changes" | Kashumi Madampe; Rashina Hoda; John Grundy
+This is the replication package of the IEEE Transactions on Software Engineering paper "The Emotional Roller Coaster of Responding to Software Requirements Changes in Software Engineering" | Kashumi Madampe; Rashina Hoda; John Grundy
 
 The study followed a mixed-methods approach (Statistical Analysis, Analysis using Job-related Affective Well-being Scale (JAWS), and Socio-Technical Grounded Theory for data analysis (STGT4DA)).
 
