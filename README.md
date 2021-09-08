@@ -8,7 +8,7 @@ This repository contains,
 
 Demographic information of the participants; </br>
 Survey questionnaire; and </br>
-Survey data
+Survey data (All survey data beyond the findings presented in this paper. Future publications from rest of the data are anticipated)
 
 We encourage researchers to replicate this study. We appreciate if you could let us know the results via email (See the paper for contact details).
 
