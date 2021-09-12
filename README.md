@@ -7,8 +7,7 @@ The study followed a mixed-methods approach (Statistical Analysis, Analysis usin
 This repository contains,
 
 Demographic information of the participants; </br>
-Survey questionnaire; and </br>
-Survey data (This contains all survey data beyond the findings presented in this paper)
+Survey questionnaire
 
 We encourage researchers to replicate this study. We appreciate if you could let us know the results via email (See the paper for contact details).
 
